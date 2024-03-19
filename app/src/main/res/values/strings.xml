@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AND101-Project_4</string>
+    <string name="header">TIP CALCULATOR</string>
+    <string name="bill_amount">Amount</string>
+    <string name="bill_amount_hint">Enter Bill Amount</string>
+    <string name="tip_percentage">Tip Percentage</string>
+    <string name="total_tip">Total Tip</string>
+    <string name="total_bill">Total Bill</string>
+    <string name="person">Persons</string>
+    <string name="per_person">Per Person</string>
+</resources>
