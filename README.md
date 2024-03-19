@@ -25,7 +25,7 @@ The following REQUIRED features are completed:
 The following STRETCH features are implemented:
 
 - [x] Implement ViewBinding to reduce boilerplate code and increase efficiency
-- [x] Add at least one (1) additional functionality
+- [x] Add at least one (1) additional functionality - added tip review to add additional description on tip percentage 
 
 The following EXTRA features are implemented:
 
@@ -46,7 +46,7 @@ GIF created with **ScreenToGif**
 
 ## Notes
 
-Learned about how to add interactvity within the apps. Also experimented with layout contrains extensively. and learned many new functionalities about android studio.
+Learned about how to add interactivity within the apps. I also experimented with layout constraints extensively. I learned many new functionalities about Android Studio.
 
 ## License
 
