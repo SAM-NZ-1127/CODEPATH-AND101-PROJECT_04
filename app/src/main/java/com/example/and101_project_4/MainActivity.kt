@@ -1,7 +1,6 @@
 package com.example.and101_project_4
 
 import android.animation.ArgbEvaluator
-import android.health.connect.datatypes.units.Percentage
 import android.os.Bundle
 import android.text.Editable
 import android.text.TextWatcher
@@ -76,9 +75,8 @@ class MainActivity : AppCompatActivity() {
         val description : String
         when (tipPercentage){
             in 0..9 -> description = "Poor"
-            in 10..14 -> description = "Acceptable"
-            in 15..19 -> description = "Good"
-            in 20 ..24 -> description = "Great"
+            in 10..14 -> description = "Good"
+            in 15..19 -> description = "Great"
             else -> description = "Amazing"
         }
         review.text = description

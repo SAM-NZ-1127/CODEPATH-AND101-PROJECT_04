@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AND101-Project_4</string>
-    <string name="header">TIP CALCULATOR</string>
+    <string name="app_name">TIP CALCULATOR</string>
     <string name="bill_amount">Amount</string>
     <string name="bill_amount_hint">Enter Bill Amount</string>
     <string name="tip_percentage">Tip Percentage</string>
