@@ -8,7 +8,7 @@ Time spent: **8** hours spent in total
 
 ## Summary
 
-**Tip Calculator** is an Android app that **takes billing amount and tip percentage as input from the user and provides the user with the total amount of tip and final billing amount**
+**Tip Calculator** is an Android app that **takes base amount and tip percentage as input from the user and provides the user with the total amount of tip and final billing amount**
 
 If I had to describe this project in three (3) emojis, they would be: **😊, 💻, 🔍**
 
